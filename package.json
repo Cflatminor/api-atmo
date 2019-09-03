@@ -1,0 +1,30 @@
+{
+  "name": "api-atmo",
+  "version": "1.0.0",
+  "description": "practice makes perfect",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cflatminor/api-atmo.git"
+  },
+  "keywords": [
+    "api",
+    "practice",
+    "test",
+    "nodejs"
+  ],
+  "author": "roman.vorontsov (cflatminor92@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cflatminor/api-atmo/issues"
+  },
+  "homepage": "https://github.com/Cflatminor/api-atmo#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  }
+}
