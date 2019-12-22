@@ -29,6 +29,7 @@
     "mongodb": "^3.3.2"
   },
   "devDependencies": {
+    "nodemon": "^2.0.2",
     "path": "^0.12.7"
   }
 }
