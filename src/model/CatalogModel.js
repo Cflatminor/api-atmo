@@ -1,0 +1,60 @@
+const vapeJuices = [
+  {
+    brand: 'Smoky Mix',
+    title: 'Citrus Cake',
+    price: 55,
+    available: true,
+    rating: 4,
+    currency: 'UAH',
+  },
+  {
+    brand: 'Bevape',
+    title: 'Mint Ice Cream',
+    price: 65,
+    available: true,
+    rating: 4,
+    currency: 'UAH',
+  },
+  {
+    brand: 'Soft Vapor',
+    title: 'Mango + Ice',
+    price: 150,
+    available: false,
+    rating: 4,
+    currency: 'UAH',
+  },
+  {
+    brand: 'Bevape',
+    title: 'Cactus Lime',
+    price: 65,
+    available: false,
+    rating: 5,
+    currency: 'UAH',
+  },
+  {
+    brand: 'Smoky Mix',
+    title: 'Solar Shock',
+    price: 55,
+    available: true,
+    rating: 3,
+    currency: 'UAH',
+  },
+  {
+    brand: 'Soft Vapor',
+    title: 'Strawberry',
+    price: 140,
+    available: true,
+    rating: 5,
+    currency: 'UAH',
+  },
+  {
+    brand: 'Soft Vapor',
+    title: 'Melon',
+    price: 140,
+    available: true,
+    rating: 5,
+    currency: 'UAH',
+  },
+];
+
+module.exports = vapeJuices;
