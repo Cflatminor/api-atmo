@@ -41,6 +41,22 @@ const vapeJuices = [
   },
   {
     brand: 'Soft Vapor',
+    title: 'Grape + Ice',
+    price: 105,
+    available: false,
+    rating: 4,
+    currency: 'UAH',
+  },
+  {
+    brand: 'Smoky Premium',
+    title: 'Berries',
+    price: 75,
+    available: true,
+    rating: 4,
+    currency: 'UAH',
+  },
+  {
+    brand: 'Soft Vapor',
     title: 'Strawberry',
     price: 140,
     available: true,
