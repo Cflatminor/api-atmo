@@ -68,4 +68,4 @@ module.exports = function (database, router) {
   });
 
   return router;
-}
+};
